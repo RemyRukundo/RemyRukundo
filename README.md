@@ -15,7 +15,7 @@ I turn data into clear decisions. My background is in applied statistics and dig
 
 ## 🚀 What I'm building
 - 📊 **SQL & Python & Excel analysis portfolio**: real-world data projects
-- 📈 **Power BI Dashboard**: turning numbers into stories
+- 📈 **Power BI Dashboards**: turning numbers into stories
 - ✍️ **Daily Truth**: my blog and website
 - 🔬 **Research paper**: work in progress
 
