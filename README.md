@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Remy 👋
 
-<!--
-**RemyRukundo/RemyRukundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & operations professional based in Rotterdam, the Netherlands 🇳🇱**
 
-Here are some ideas to get you started:
+I turn data into clear decisions. My background is in applied statistics and digital marketing, and I'm building my skills in the open here on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 What I work with
+- **Data analysis:** SQL, Advanced Excel, Power BI, Python 
+- **Business tools:** SAP, Zendesk, Google Workspace
+- **Languages:** English, Dutch, French
+
+## 🎓 Background
+- MSc Digital Marketing and Communication, Wittenborg University of Applied Sciences
+- BSc Applied Statistics (Econometrics), University of Rwanda
+
+## 🚀 What I'm building
+- 📊 **SQL & Python & Excel analysis portfolio**: real-world data projects
+- 📈 **Power BI Dashboard**: turning numbers into stories
+- ✍️ **Daily Truth**: my blog and website
+- 🔬 **Research paper**: work in progress
+
+## 🌱 Currently
+Learning in public, shipping small projects often, and growing my GitHub step by step.
